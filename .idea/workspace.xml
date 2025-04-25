@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee50b4e2-a6bd-4a18-b8ec-3615b157feb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Project Euler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 - power digit sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17- number letter counts.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee50b4e2-a6bd-4a18-b8ec-3615b157feb3" name="Changes" comment="initial push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/avbaker/projectEuler",
+    "accountId": "d99e1d49-6f1c-49df-82ac-2bf2d05be432"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -62,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1745574712594</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial push">
+      <option name="closed" value="true" />
+      <created>1745587219163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745587219163</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial push" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial push" />
   </component>
 </project>
