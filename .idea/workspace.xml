@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee50b4e2-a6bd-4a18-b8ec-3615b157feb3" name="Changes" comment="initial push">
-      <change afterPath="$PROJECT_DIR$/18 - Maximum Path Sum 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19- counting sundays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project Euler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project Euler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19- counting sundays.py" beforeDir="false" afterPath="$PROJECT_DIR$/19- counting sundays.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +31,12 @@
     &quot;assignee&quot;: &quot;BinaryBaker&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/avbaker/projectEuler&quot;,
-    &quot;accountId&quot;: &quot;d99e1d49-6f1c-49df-82ac-2bf2d05be432&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/avbaker/projectEuler",
+    "accountId": "9174766b-4557-444f-a370-1fd19d0f92b3"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -52,6 +53,7 @@
     "Python.19- counting sundays.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "N:/00_programming/Pycharm/Project Euler",
     "settings.editor.selected.configurable": "Educational"
   }
 }]]></component>
@@ -95,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745588073465</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial push">
+      <option name="closed" value="true" />
+      <created>1745938808448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745938808448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
