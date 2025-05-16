@@ -29,4 +29,4 @@ for name in range(len(names)): # for each name, strip parentheses, and add score
 
     total += getscore(thisname,name+1,False)
 
-print(f"total score: {total}")
+print(f"total score: {total}") #output total score
