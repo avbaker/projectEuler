@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee50b4e2-a6bd-4a18-b8ec-3615b157feb3" name="Changes" comment="initial push">
-      <change afterPath="$PROJECT_DIR$/20- FactorialDigitSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0022_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22- Names scores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Project Euler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project Euler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +32,12 @@
     &quot;assignee&quot;: &quot;BinaryBaker&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/avbaker/projectEuler",
-    "accountId": "9174766b-4557-444f-a370-1fd19d0f92b3"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/avbaker/projectEuler&quot;,
+    &quot;accountId&quot;: &quot;d99e1d49-6f1c-49df-82ac-2bf2d05be432&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -43,18 +47,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.16 - power digit sum.executor": "Run",
-    "Python.17- number letter counts.executor": "Run",
-    "Python.19- counting sundays.executor": "Run",
-    "Python.20- FactorialDigitSum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "N:/00_programming/Pycharm/Project Euler",
-    "settings.editor.selected.configurable": "Educational"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.16 - power digit sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17- number letter counts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19- counting sundays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20- FactorialDigitSum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22- Names scores.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;N:/00_programming/Pycharm/Project Euler&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="N:\00_programming\Pycharm\Project Euler" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="22- Names scores" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Project Euler" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22- Names scores.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
