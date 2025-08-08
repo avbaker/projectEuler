@@ -1,4 +1,7 @@
-'''Using names.txt (right click and 'Save Link/Target As...'), a 46K text file containing over five-thousand first names, begin by sorting it into alphabetical order. Then working out the alphabetical value for each name, multiply this value by its alphabetical position in the list to obtain a name score.
+'''Using names.txt (right click and 'Save Link/Target As...'), a 46K text file
+containing over five-thousand first names, begin by sorting it into alphabetical
+order. Then working out the alphabetical value for each name, multiply this value
+ by its alphabetical position in the list to obtain a name score.
 
 For example, when the list is sorted into alphabetical order, COLIN, which is worth
 , is the
@@ -13,7 +16,7 @@ def getscore(word, multiplier, show): #returns the score of the word
         asciiChar = ord(letter)
         letterScore = asciiChar - 64
         wordScore += letterScore
-    score = wordScore * multiplier #multiply score by position in array+1 (so the first is not negated by *0)
+    score = wordScore * multiplier #multiply score by position in array+1 (so the first is not *0)
     if show:
         print(f"{name+1}. {names[name]}: {letterScore}x{multiplier}={score}") # show debug data
     return score
